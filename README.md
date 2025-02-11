@@ -37,6 +37,6 @@ Below you can find the list of the Message Type implemented:
 |0x1B|WILLTOPICRESP|Implemented||
 |0x1C|WILLMSGUPD|Implemented||
 |0x1D|WILLMSGRESP|Implemented||
-|0x1E-0xFD|reserved|||
+|0x1E-0xFD|reserved|NA||
 |0xFE|Encapsulated message|NA||
 |0xFF|reserved|NA||
